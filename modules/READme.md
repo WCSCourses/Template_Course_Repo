@@ -9,3 +9,4 @@ Converting between markdown to PDF can be performed using pandoc. Here is a tuto
 
 
 
+There is an example markdown file - module_base.md

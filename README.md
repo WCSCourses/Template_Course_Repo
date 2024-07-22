@@ -43,11 +43,7 @@ Take a look what courses are coming up at [Wellcome Connecting Science Courses &
 
 ---
 
-[Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
-[Wellcome Connecting Science Website](https://coursesandconferences.wellcomeconnectingscience.org/)
-
----
-
 For more information or queries, feel free to contact us via the [Wellcome Connecting Science website](https://coursesandconferences.wellcomeconnectingscience.org).<br /> 
 Find us on socials [Wellcome Connecting Science Linktr](https://linktr.ee/eventswcs)
 
+[Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) 

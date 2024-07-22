@@ -2,8 +2,8 @@
 
 ## Add Course Dates, Add Course Location
 
-[Wellcome Connecting Science Course Run Website Link](Add link here)
-[Course Time Table YEAR](Add link here)
+[Wellcome Connecting Science Course Run Website Link](Add link here) <br /> 
+[Course Time Table YEAR](Add link here) <br /> 
 [Course Informatics Guide](Add link here)
 
 # Summary

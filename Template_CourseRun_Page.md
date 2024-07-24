@@ -1,4 +1,6 @@
-# <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> Add Course Title
+<img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> 
+
+# Add Course Title
 
 ## Add Course Dates, Add Course Location
 
@@ -44,6 +46,8 @@ Take a look what courses are coming up at [Wellcome Connecting Science Courses &
 ---
 
 For more information or queries, feel free to contact us via the [Wellcome Connecting Science website](https://coursesandconferences.wellcomeconnectingscience.org).<br /> 
+
+
 Find us on socials [Wellcome Connecting Science Linktr](https://linktr.ee/eventswcs)
 
 ---

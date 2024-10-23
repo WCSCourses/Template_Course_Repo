@@ -4,8 +4,9 @@
 This directory contains all datasets and supplementary materials that are essential for the course. The files here support the learning objectives and provide the necessary resources for participants.
 
 ## Suggested File Types
-- Datasets (CSV, JSON, SAM, etc.)
-- Reference documents
+- Datasets (CSV, JSON, SAM, FASTA etc.)
+- Reference/supplementary data
+- Practical exercise data
 
 ## Best Practices for Naming Conventions
 To ensure clarity and consistency, please follow these naming conventions for your files:
@@ -53,6 +54,9 @@ To ensure clarity and consistency, please follow these naming conventions for yo
    ```
 
 **NB:** Git LFS does **NOT** track changes in binary files—use different names for modified files.
+
+### Informatics Software Guide
+The Software Informatics Guide provides comprehensive information about the software utilized by participants throughout the course, including version numbers, links to software repositories or websites, and other relevant details. The training team is encouraged to review this guide and add their software, as this will be beneficial for course attendees in the future. The link to this guide can be found on the course homepage. 
 
 ### Helpful Links
 1. [Using Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)

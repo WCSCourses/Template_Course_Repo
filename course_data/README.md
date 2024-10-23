@@ -63,6 +63,6 @@ To ensure clarity and consistency, please follow these naming conventions for yo
  
 ________
 
-[Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) 
+[Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) </br>
 [Wellcome Connecting Science Courses & Conference Website](https://coursesandconferences.wellcomeconnectingscience.org/our-events/)
 

@@ -19,7 +19,17 @@ To ensure clarity and consistency, please follow these naming conventions for yo
 - Files up to 100MB can be uploaded using the Git command line.
 - For files larger than 100MB, use [Git Large File Storage (LFS)](https://git-lfs.github.com) to manage your uploads.
 
-### Git LFS Instructions
+## Steps to Add Data via GitHub Web Interface
+1. Navigate to the Repository: Go to the GitHub repository for the course.
+2. Select the **course_data Directory**: Click on the course_data folder to open it.
+3. Click on **"Add file"**: On the right-hand side, you’ll see an option labeled Add file.
+4. Choose **"Upload files"**: From the dropdown menu, select Upload files.
+5. Drag and Drop or Select Files: You can either drag and drop your files into the space provided or click choose your files to upload them from your computer.
+6. Commit Changes: Once your files are uploaded, scroll down to the **Commit changes** section.
+7. Enter a brief description of the changes in the **commit message** field (e.g., "Adding new dataset files").
+8. Click **Commit changes** to finalize your upload.
+
+## Git LFS Instructions
 1. Install Git LFS.
 2. Clone the repository.
 3. Copy your large files to the respective `course_data` directory.
@@ -55,10 +65,10 @@ To ensure clarity and consistency, please follow these naming conventions for yo
 
 **NB:** Git LFS does **NOT** track changes in binary files—use different names for modified files.
 
-### Informatics Software Guide
+## Informatics Software Guide
 The Software Informatics Guide provides comprehensive information about the software utilized by participants throughout the course, including version numbers, links to software repositories or websites, and other relevant details. The training team is encouraged to review this guide and add their software, as this will be beneficial for course attendees in the future. The link to this guide can be found on the course homepage. 
 
-### Helpful Links
+## Helpful Links
 1. [Using Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 2. [Formatting markdown on GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 3. [GitHub Markdown Cheatsheet](https://github.github.io/gfm/)

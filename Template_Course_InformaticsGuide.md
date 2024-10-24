@@ -1,6 +1,6 @@
 # <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50"> Add Course Title Informatics Guide
 
-**Softwares used during the course**      
+**Software used during the course**      
 
 | Software | Version (if not latest) | Module |Notes |
 |-------------|--------------|----------|-------------|
@@ -9,8 +9,8 @@
 ## Informatics Set-Up
 For installation and setup, please refer to the following guides:
 
-Oracle VM VirtualBox Installation Guide – Detailed instructions for installing and configuring VirtualBox on different operating systems. (Note: Separate installations are needed for Intel-based and ARM-based Macs, and the VDI files will differ.)
-Docker Installation Guide – Step-by-step guide for installing Docker on Windows, macOS, and Linux.
+- **[Oracle VM VirtualBox Installation Guide](https://github.com/WCSCourses/index/blob/main/VM_Guide.md)** – Detailed instructions for installing and configuring VirtualBox on different operating systems. *(Note: Separate installations are needed for Intel-based and ARM-based Macs, and the VDI files will differ.)*
+- **[Docker Installation Guide](https://github.com/WCSCourses/index/blob/main/Docker_guide.md)** – Step-by-step guide for installing Docker on Windows, macOS, and Linux.
 
 The Host Operating System Requirements are: <br />
 - RAM requirement: 8GB (preferably 12GB) <br />
@@ -26,7 +26,7 @@ Each course landing page is assigned a DOI via Zenodo, providing a stable and ci
 
 ## Interested in attending a course?
 
-Take a look what courses are coming up at [Wellcome Connecting Science Courses & Conference Website](https://coursesandconferences.wellcomeconnectingscience.org/our-events/).
+Take a look at what courses are coming up at [Wellcome Connecting Science Courses & Conference Website](https://coursesandconferences.wellcomeconnectingscience.org/our-events/).
 
 ---
 

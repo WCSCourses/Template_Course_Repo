@@ -1,7 +1,7 @@
-# Course Data Directory Intrsuctions for Training Team
+# Course Data Directory Instructions for Training Team
 
 ## Purpose
-This directory contains all datasets and supplementary materials that are essential for the course. The files here support the learning objectives and provide the necessary resources for participants.
+This directory contains all datasets and supplementary materials which are essential for the course. The files here support the learning objectives and provide the necessary resources for attendees.
 
 ## Suggested File Types
 - Datasets (CSV, JSON, SAM, FASTA etc.)
@@ -22,7 +22,7 @@ To ensure clarity and consistency, please follow these naming conventions for yo
 ## Steps to Add Data via GitHub Web Interface
 1. Navigate to the Repository: Go to the GitHub repository for the course.
 2. Select the **course_data Directory**: Click on the course_data folder to open it.
-3. Click on **"Add file"**: On the right-hand side, you’ll see an option labeled Add file.
+3. Click on **"Add file"**: On the right-hand side, you’ll see an option labelled Add file.
 4. Choose **"Upload files"**: From the dropdown menu, select Upload files.
 5. Drag and Drop or Select Files: You can either drag and drop your files into the space provided or click choose your files to upload them from your computer.
 6. Commit Changes: Once your files are uploaded, scroll down to the **Commit changes** section.

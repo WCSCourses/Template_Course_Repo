@@ -43,6 +43,7 @@ Add text here
 - [Scarlett Storr](https://www.wellcomeconnectingscience.org/person/storr-scarlett/), Events Organiser
 - [Liã Barbara Arruda](https://www.wellcomeconnectingscience.org/person/barbara-arruda-lia/), Education Developer
 - [Isabela Malta](https://www.wellcomeconnectingscience.org/person/malta-isabela/), Assistant Overseas Courses Manager
+- [Monica Abrudan](https://www.linkedin.com/in/monica-abrudan-09bb34a/?originalSubdomain=uk), Bioinformatics Education Developer
 - [Martin Aslett](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Informatics Manager
 - [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Informatics Technical Officer
 - [Cassandra Soo](https://uk.linkedin.com/in/cassandra-claire-soo-b3783277/ms?trk=people-guest_people_search-card), Laboratory Courses Manager

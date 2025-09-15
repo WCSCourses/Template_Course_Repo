@@ -9,8 +9,8 @@
 ## Informatics Set-Up
 For installation and setup, please refer to the following guides:
 
-- **[Oracle VM VirtualBox Installation Guide](https://github.com/WCSCourses/index/blob/main/VM_Guide.md)** – Detailed instructions for installing and configuring VirtualBox on different operating systems. *(Note: Separate installations are needed for Intel-based and ARM-based Macs, and the VDI files will differ.)*
-- **[Docker Installation Guide](https://github.com/WCSCourses/index/blob/main/Docker_guide.md)** – Step-by-step guide for installing Docker on Windows, macOS, and Linux.
+- **[Oracle VM VirtualBox Installation Guide](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Installation_Guides/VM_Guide.md)** – Detailed instructions for installing and configuring VirtualBox on different operating systems. *(Note: Separate installations are needed for Intel-based and ARM-based Macs, and the VDI files will differ.)*
+- **[Docker Installation Guide](https://github.com/WCSCourses/WCS_Informatics_Guides/blob/main/Installation_Guides/Docker_guide.md)** – Step-by-step guide for installing Docker on Windows, macOS, and Linux.
 
 The Host Operating System Requirements are: <br />
 - RAM requirement: 8GB (preferably 12GB) <br />
@@ -33,6 +33,6 @@ Take a look at what courses are coming up at [Wellcome Connecting Science Course
 [Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) 
 
 For more information or queries, feel free to contact us via the [Wellcome Connecting Science website](https://coursesandconferences.wellcomeconnectingscience.org).<br /> 
-Find us on socials [Wellcome Connecting Science Linktr](https://linktr.ee/eventswcs)
+Please find us on socials [Wellcome Connecting Science Linktr](https://linktr.ee/eventswcs)
 
 ---

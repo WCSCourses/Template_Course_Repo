@@ -43,8 +43,8 @@ Take a look at what courses are coming up at [Wellcome Connecting Science Course
 
 ---
 
-For more information or queries, feel free to contact us via the [Wellcome Connecting Science Courses & Conference Website]
-Find us on socials [Wellcome Connecting Science Linktr](https://linktr.ee/eventswcs)
+For more information or queries, feel free to contact us via the [Wellcome Connecting Science Courses & Conference Website](https://coursesandconferences.wellcomeconnectingscience.org/our-events/). 
+Please find us on socials [Wellcome Connecting Science Linktr](https://linktr.ee/eventswcs)
 
 ---
 
